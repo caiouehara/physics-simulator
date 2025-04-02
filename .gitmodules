@@ -1,0 +1,3 @@
+[submodule "ball-extreme-collision"]
+	path = ball-extreme-collision
+	url = https://github.com/caiouehara/ball-extreme-collision
